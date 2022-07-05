@@ -1,1 +1,1 @@
-This appliation is run with Flask Framework, template provided by Volt
+This appliation uses Flask Framework, template is provided by Volt
