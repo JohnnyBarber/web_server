@@ -1,0 +1,42 @@
+('D:\\interview Q\\Schonfeld\\build\\run\\setuptools-40.8.0-py3.7.egg',
+ None,
+ {'*.pyw', '*.pyd', 'EGG-INFO', '*.pyc', '*.py', '*.cp37-win_amd64.pyd'},
+ 'DATA',
+ [('setuptools\\cli-32.exe',
+   'D:\\interview '
+   'Q\\Schonfeld\\build\\run\\setuptools-40.8.0-py3.7.egg\\setuptools\\cli-32.exe',
+   'DATA'),
+  ('setuptools\\cli-64.exe',
+   'D:\\interview '
+   'Q\\Schonfeld\\build\\run\\setuptools-40.8.0-py3.7.egg\\setuptools\\cli-64.exe',
+   'DATA'),
+  ('setuptools\\cli.exe',
+   'D:\\interview '
+   'Q\\Schonfeld\\build\\run\\setuptools-40.8.0-py3.7.egg\\setuptools\\cli.exe',
+   'DATA'),
+  ('setuptools\\gui-32.exe',
+   'D:\\interview '
+   'Q\\Schonfeld\\build\\run\\setuptools-40.8.0-py3.7.egg\\setuptools\\gui-32.exe',
+   'DATA'),
+  ('setuptools\\gui-64.exe',
+   'D:\\interview '
+   'Q\\Schonfeld\\build\\run\\setuptools-40.8.0-py3.7.egg\\setuptools\\gui-64.exe',
+   'DATA'),
+  ('setuptools\\gui.exe',
+   'D:\\interview '
+   'Q\\Schonfeld\\build\\run\\setuptools-40.8.0-py3.7.egg\\setuptools\\gui.exe',
+   'DATA'),
+  ('setuptools\\script (dev).tmpl',
+   'D:\\interview '
+   'Q\\Schonfeld\\build\\run\\setuptools-40.8.0-py3.7.egg\\setuptools\\script '
+   '(dev).tmpl',
+   'DATA'),
+  ('setuptools\\script.tmpl',
+   'D:\\interview '
+   'Q\\Schonfeld\\build\\run\\setuptools-40.8.0-py3.7.egg\\setuptools\\script.tmpl',
+   'DATA'),
+  ('setuptools\\command\\launcher manifest.xml',
+   'D:\\interview '
+   'Q\\Schonfeld\\build\\run\\setuptools-40.8.0-py3.7.egg\\setuptools\\command\\launcher '
+   'manifest.xml',
+   'DATA')])
